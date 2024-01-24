@@ -111,7 +111,7 @@ nav {
   cursor: pointer;
 }
 .allDash:hover {
-  background-color: hsla(240, 3%, 77%, 0.308);
+    filter: brightness(90%);
 }
 .twitterDashboard {
   display: grid;
@@ -232,7 +232,8 @@ nav {
   cursor: pointer;
 }
 .overFaceOne:hover {
-  background-color: hsl(225, 12%, 87%);
+    filter: brightness(90%);
+
 }
 .overFaceTop {
   display: flex;
